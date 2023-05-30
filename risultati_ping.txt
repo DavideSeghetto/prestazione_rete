@@ -1,0 +1,859 @@
+Ping con -c 1 e -t 50
+
+sudo ping -c 1 -t 50 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=125 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 125.312/125.312/125.312/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 49
+
+sudo ping -c 1 -t 49 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=123 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 123.077/123.077/123.077/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 48
+
+sudo ping -c 1 -t 48 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=123 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 122.590/122.590/122.590/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 47
+
+sudo ping -c 1 -t 47 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=131 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 130.781/130.781/130.781/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 46
+
+sudo ping -c 1 -t 46 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=124 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 123.986/123.986/123.986/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 45
+
+sudo ping -c 1 -t 45 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=231 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 231.456/231.456/231.456/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 44
+
+sudo ping -c 1 -t 44 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=121 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 121.406/121.406/121.406/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 43
+
+sudo ping -c 1 -t 43 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=231 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 231.028/231.028/231.028/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 42
+
+sudo ping -c 1 -t 42 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=181 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 180.652/180.652/180.652/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 41
+
+sudo ping -c 1 -t 41 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=121 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 121.479/121.479/121.479/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 40
+
+sudo ping -c 1 -t 40 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=145 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 145.022/145.022/145.022/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 39
+
+sudo ping -c 1 -t 39 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=174 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 173.520/173.520/173.520/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 38
+
+sudo ping -c 1 -t 38 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=188 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 188.352/188.352/188.352/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 37
+
+sudo ping -c 1 -t 37 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=122 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 121.567/121.567/121.567/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 36
+
+sudo ping -c 1 -t 36 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=143 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 142.666/142.666/142.666/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 35
+
+sudo ping -c 1 -t 35 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=176 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 176.496/176.496/176.496/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 34
+
+sudo ping -c 1 -t 34 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=123 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 122.569/122.569/122.569/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 33
+
+sudo ping -c 1 -t 33 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=144 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 143.509/143.509/143.509/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 32
+
+sudo ping -c 1 -t 32 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=190 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 190.440/190.440/190.440/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 31
+
+sudo ping -c 1 -t 31 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=180 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 180.326/180.326/180.326/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 30
+
+sudo ping -c 1 -t 30 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=195 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 195.334/195.334/195.334/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 29
+
+sudo ping -c 1 -t 29 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=162 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.473/162.473/162.473/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 28
+
+sudo ping -c 1 -t 28 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=122 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 121.987/121.987/121.987/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 27
+
+sudo ping -c 1 -t 27 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=153 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 153.227/153.227/153.227/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 26
+
+sudo ping -c 1 -t 26 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=192 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 192.385/192.385/192.385/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 25
+
+sudo ping -c 1 -t 25 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=172 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 172.443/172.443/172.443/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 24
+
+sudo ping -c 1 -t 24 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=174 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 173.570/173.570/173.570/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 23
+
+sudo ping -c 1 -t 23 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=193 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 192.519/192.519/192.519/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 22
+
+sudo ping -c 1 -t 22 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=124 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 124.476/124.476/124.476/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 21
+
+sudo ping -c 1 -t 21 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=124 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 123.735/123.735/123.735/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 20
+
+sudo ping -c 1 -t 20 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=187 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 186.761/186.761/186.761/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 19
+
+sudo ping -c 1 -t 19 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=122 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 122.306/122.306/122.306/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 18
+
+sudo ping -c 1 -t 18 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=122 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 121.911/121.911/121.911/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 17
+
+sudo ping -c 1 -t 17 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+64 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=206 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 205.543/205.543/205.543/0.000 ms
+
+-----------------------------------------------------------------
+
+Ping con -c 1 e -t 16
+
+sudo ping -c 1 -t 16 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 56(84) bytes of data.
+From 92.119.16.5 (92.119.16.5) icmp_seq=1 Time to live exceeded
+
+--- atl.speedtest.clouvider.net ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+
+-----------------------------------------------------------------
+
+Traceroute all' indirizzo atl.speedtest.clouvider.net
+
+traceroute to atl.speedtest.clouvider.net (92.119.16.139), 30 hops max, 60 byte packets
+ 1  10.5.29.1 (10.5.29.1)  7.946 ms  7.900 ms  7.879 ms
+ 2  147.162.214.178 (147.162.214.178)  11.735 ms  11.715 ms  11.695 ms
+ 3  147.162.238.17 (147.162.238.17)  11.648 ms  11.628 ms  11.613 ms
+ 4  147.162.28.22 (147.162.28.22)  7.748 ms  7.710 ms  7.693 ms
+ 5  ru-unipd-rt-pd1.pd1.garr.net (193.206.132.221)  15.986 ms  7.701 ms  15.959 ms
+ 6  rl1-pd01-rs1-pd02.pd02.garr.net (185.191.181.15)  15.981 ms 185.191.181.12 (185.191.181.12)  3.821 ms rl1-pd01-rs1-pd02.pd02.garr.net (185.191.181.15)  4.768 ms
+ 7  rs1-pd02-rs1-bo01.bo01.garr.net (185.191.181.17)  5.713 ms rs1-pd01-rs1-mi01.mi01.garr.net (185.191.181.11)  7.277 ms rs1-pd02-rs1-bo01.bo01.garr.net (185.191.181.17)  5.679 ms
+ 8  rs1-mi01-re1-mi02.mi02.garr.net (185.191.180.158)  7.243 ms rs1-bo01-re1-mi02.mi02.garr.net (185.191.180.57)  12.012 ms rs1-mi01-re1-mi02.mi02.garr.net (185.191.180.158)  6.746 ms
+ 9  mno-b3-link.ip.twelve99.net (80.239.135.52)  14.627 ms  14.616 ms  10.245 ms
+10  prs-bb2-link.ip.twelve99.net (62.115.116.168)  32.045 ms  26.093 ms  26.738 ms
+11  rest-bb1-link.ip.twelve99.net (62.115.122.159)  109.541 ms  112.807 ms  110.231 ms
+12  * * *
+13  atl-b24-link.ip.twelve99.net (62.115.134.247)  132.513 ms  132.501 ms  132.489 ms
+14  clouvider-ic-360478.ip.twelve99-cust.net (62.115.171.153)  120.247 ms  120.206 ms  124.005 ms
+15  92.119.16.1 (92.119.16.1)  120.181 ms  120.168 ms  127.488 ms
+16  92.119.16.5 (92.119.16.5)  127.475 ms  127.399 ms  127.359 ms
+17  92.119.16.139 (92.119.16.139)  127.345 ms  119.241 ms  127.313 ms
+
+-----------------------------------------------------------------
+
+sudo ping -c 200 -s 20 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 20(48) bytes of data.
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=122 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=2 ttl=48 time=121 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=3 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=4 ttl=48 time=131 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=5 ttl=48 time=128 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=6 ttl=48 time=131 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=7 ttl=48 time=130 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=8 ttl=48 time=135 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=9 ttl=48 time=125 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=10 ttl=48 time=132 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=11 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=12 ttl=48 time=131 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=13 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=14 ttl=48 time=130 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=15 ttl=48 time=131 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=16 ttl=48 time=132 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=17 ttl=48 time=134 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=18 ttl=48 time=134 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=19 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=20 ttl=48 time=133 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=21 ttl=48 time=133 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=22 ttl=48 time=134 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=23 ttl=48 time=143 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=24 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=25 ttl=48 time=136 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=26 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=27 ttl=48 time=139 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=28 ttl=48 time=139 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=29 ttl=48 time=140 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=30 ttl=48 time=140 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=31 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=32 ttl=48 time=143 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=33 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=34 ttl=48 time=141 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=35 ttl=48 time=147 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=36 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=37 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=38 ttl=48 time=137 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=39 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=40 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=41 ttl=48 time=145 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=42 ttl=48 time=125 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=43 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=44 ttl=48 time=143 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=45 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=46 ttl=48 time=159 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=47 ttl=48 time=147 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=48 ttl=48 time=147 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=49 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=50 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=51 ttl=48 time=148 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=52 ttl=48 time=148 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=53 ttl=48 time=198 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=54 ttl=48 time=261 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=55 ttl=48 time=262 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=56 ttl=48 time=212 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=57 ttl=48 time=186 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=58 ttl=48 time=257 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=59 ttl=48 time=225 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=60 ttl=48 time=253 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=61 ttl=48 time=264 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=62 ttl=48 time=272 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=63 ttl=48 time=250 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=64 ttl=48 time=231 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=65 ttl=48 time=191 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=66 ttl=48 time=179 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=67 ttl=48 time=171 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=68 ttl=48 time=160 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=69 ttl=48 time=166 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=70 ttl=48 time=177 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=71 ttl=48 time=179 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=72 ttl=48 time=194 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=73 ttl=48 time=199 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=74 ttl=48 time=198 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=75 ttl=48 time=200 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=76 ttl=48 time=200 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=77 ttl=48 time=139 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=78 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=79 ttl=48 time=176 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=80 ttl=48 time=188 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=81 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=82 ttl=48 time=128 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=83 ttl=48 time=175 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=84 ttl=48 time=130 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=85 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=86 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=87 ttl=48 time=131 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=88 ttl=48 time=159 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=89 ttl=48 time=160 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=90 ttl=48 time=125 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=91 ttl=48 time=157 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=92 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=93 ttl=48 time=156 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=94 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=95 ttl=48 time=156 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=96 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=97 ttl=48 time=140 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=98 ttl=48 time=156 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=99 ttl=48 time=128 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=100 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=101 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=102 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=103 ttl=48 time=158 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=104 ttl=48 time=156 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=105 ttl=48 time=158 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=106 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=107 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=108 ttl=48 time=134 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=109 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=110 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=111 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=112 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=113 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=114 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=115 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=116 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=117 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=118 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=119 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=120 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=121 ttl=48 time=141 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=122 ttl=48 time=157 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=123 ttl=48 time=125 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=124 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=125 ttl=48 time=173 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=126 ttl=48 time=130 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=127 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=128 ttl=48 time=131 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=129 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=130 ttl=48 time=133 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=131 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=132 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=133 ttl=48 time=146 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=134 ttl=48 time=146 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=135 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=136 ttl=48 time=149 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=137 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=138 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=139 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=140 ttl=48 time=128 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=141 ttl=48 time=149 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=142 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=143 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=144 ttl=48 time=148 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=145 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=146 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=147 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=148 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=149 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=150 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=151 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=152 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=153 ttl=48 time=140 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=154 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=155 ttl=48 time=160 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=156 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=157 ttl=48 time=126 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=158 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=159 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=160 ttl=48 time=148 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=161 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=162 ttl=48 time=146 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=163 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=164 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=165 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=166 ttl=48 time=166 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=167 ttl=48 time=132 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=168 ttl=48 time=154 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=169 ttl=48 time=155 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=170 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=171 ttl=48 time=137 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=172 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=173 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=174 ttl=48 time=151 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=175 ttl=48 time=175 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=176 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=177 ttl=48 time=152 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=178 ttl=48 time=153 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=179 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=180 ttl=48 time=124 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=181 ttl=48 time=146 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=182 ttl=48 time=147 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=183 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=184 ttl=48 time=146 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=185 ttl=48 time=139 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=186 ttl=48 time=145 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=187 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=188 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=189 ttl=48 time=143 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=190 ttl=48 time=162 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=191 ttl=48 time=147 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=192 ttl=48 time=150 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=193 ttl=48 time=123 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=194 ttl=48 time=148 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=195 ttl=48 time=125 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=196 ttl=48 time=144 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=197 ttl=48 time=145 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=198 ttl=48 time=142 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=199 ttl=48 time=145 ms
+28 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=200 ttl=48 time=170 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+200 packets transmitted, 200 received, 0% packet loss, time 30010ms
+rtt min/avg/max/mdev = 121.452/151.949/271.792/27.933 ms, pipe 2, ipg/ewma 150.806/145.563 ms
+
+
+sudo ping -c 200 -s 1020 -A atl.speedtest.clouvider.net
+PING atl.speedtest.clouvider.net (92.119.16.139) 1020(1048) bytes of data.
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=1 ttl=48 time=191 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=2 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=3 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=4 ttl=48 time=137 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=5 ttl=48 time=180 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=6 ttl=48 time=176 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=7 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=8 ttl=48 time=169 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=9 ttl=48 time=176 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=10 ttl=48 time=151 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=11 ttl=48 time=170 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=12 ttl=48 time=170 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=13 ttl=48 time=165 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=14 ttl=48 time=171 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=15 ttl=48 time=171 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=16 ttl=48 time=171 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=17 ttl=48 time=172 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=18 ttl=48 time=139 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=19 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=20 ttl=48 time=175 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=21 ttl=48 time=168 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=22 ttl=48 time=167 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=23 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=24 ttl=48 time=164 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=25 ttl=48 time=129 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=26 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=27 ttl=48 time=157 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=28 ttl=48 time=193 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=29 ttl=48 time=156 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=30 ttl=48 time=122 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=31 ttl=48 time=161 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=32 ttl=48 time=134 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=33 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=34 ttl=48 time=153 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=35 ttl=48 time=157 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=36 ttl=48 time=154 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=37 ttl=48 time=138 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=38 ttl=48 time=155 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=39 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=40 ttl=48 time=150 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=41 ttl=48 time=152 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=42 ttl=48 time=154 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=43 ttl=48 time=153 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=44 ttl=48 time=153 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=45 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=46 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=47 ttl=48 time=149 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=48 ttl=48 time=158 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=49 ttl=48 time=151 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=50 ttl=48 time=151 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=51 ttl=48 time=154 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=52 ttl=48 time=152 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=53 ttl=48 time=156 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=54 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=55 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=56 ttl=48 time=150 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=57 ttl=48 time=151 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=58 ttl=48 time=126 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=59 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=60 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=61 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=62 ttl=48 time=122 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=63 ttl=48 time=128 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=64 ttl=48 time=140 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=65 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=66 ttl=48 time=151 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=67 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=68 ttl=48 time=153 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=69 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=70 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=71 ttl=48 time=135 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=72 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=73 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=74 ttl=48 time=132 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=75 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=76 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=77 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=78 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=79 ttl=48 time=135 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=80 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=81 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=82 ttl=48 time=138 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=83 ttl=48 time=153 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=84 ttl=48 time=155 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=85 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=86 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=87 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=88 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=89 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=90 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=91 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=92 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=93 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=94 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=95 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=96 ttl=48 time=126 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=97 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=98 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=99 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=100 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=101 ttl=48 time=129 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=102 ttl=48 time=127 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=103 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=104 ttl=48 time=130 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=105 ttl=48 time=139 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=106 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=107 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=108 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=109 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=110 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=111 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=112 ttl=48 time=163 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=113 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=114 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=115 ttl=48 time=140 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=116 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=117 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=118 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=119 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=120 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=121 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=122 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=123 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=124 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=125 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=126 ttl=48 time=137 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=127 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=128 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=129 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=130 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=131 ttl=48 time=127 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=132 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=133 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=134 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=135 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=136 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=137 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=138 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=139 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=140 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=141 ttl=48 time=149 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=142 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=143 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=144 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=145 ttl=48 time=124 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=146 ttl=48 time=122 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=147 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=148 ttl=48 time=126 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=149 ttl=48 time=122 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=150 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=151 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=152 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=153 ttl=48 time=138 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=154 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=155 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=156 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=157 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=158 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=159 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=160 ttl=48 time=122 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=161 ttl=48 time=157 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=162 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=163 ttl=48 time=127 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=164 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=165 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=166 ttl=48 time=142 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=167 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=168 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=169 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=170 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=171 ttl=48 time=127 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=172 ttl=48 time=147 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=173 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=174 ttl=48 time=126 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=175 ttl=48 time=140 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=176 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=177 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=178 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=179 ttl=48 time=126 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=180 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=181 ttl=48 time=150 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=182 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=183 ttl=48 time=149 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=184 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=185 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=186 ttl=48 time=149 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=187 ttl=48 time=149 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=188 ttl=48 time=136 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=189 ttl=48 time=122 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=190 ttl=48 time=123 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=191 ttl=48 time=125 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=192 ttl=48 time=141 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=193 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=194 ttl=48 time=148 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=195 ttl=48 time=143 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=196 ttl=48 time=144 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=197 ttl=48 time=146 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=198 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=199 ttl=48 time=145 ms
+1028 bytes from 92.119.16.139 (92.119.16.139): icmp_seq=200 ttl=48 time=123 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+200 packets transmitted, 200 received, 0% packet loss, time 28859ms
+rtt min/avg/max/mdev = 121.604/143.101/192.609/13.786 ms, pipe 2, ipg/ewma 145.020/139.677 ms
+
+
