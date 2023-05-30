@@ -83,7 +83,7 @@ with open ("risultati_ping.txt") as file:
         number = int(match.group(1))
         if number == t:
             same = True
-if same:
+if same:  
     print(f"Utilizzando il metodo col comando traceroute, il numero di link attraversati è {t}, lo stesso ottenuto in precedenza")
 else:
     print(f"Utilizzando il metodo col comando traceroute, il numero di link attraversati è {number}, diverso da quello ottenuto in precedenza")
